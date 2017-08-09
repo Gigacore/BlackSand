@@ -20,9 +20,11 @@ https://marketplace.visualstudio.com/items?itemName=gigacore.blacksand#overview
 ```ext install BlackSand```
 
 
-Author: Santhosh Sundar
-URL: http://gigacore.in
-
+Author: [Santhosh Sundar](http://gigacore.in)
 Icon by: Bakunetsu Kaito
 
-License: MIT
+## License
+===================
+The MIT License (MIT)
+
+MIT © 2017 Santhosh Sundar
