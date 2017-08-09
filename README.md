@@ -10,11 +10,13 @@
 ![ScreenShot](/assets/screenshot-1.png)
 ![ScreenShot](/assets/screenshot-2.png)
 
-# Download from MarketPlace:
+# Get BlackSand
+
+## From MarketPlace:
 
 https://marketplace.visualstudio.com/items?itemName=gigacore.blacksand#overview
 
-# Install from Command Palette:
+## Install from Command Palette:
 
 ```ext install BlackSand```
 
