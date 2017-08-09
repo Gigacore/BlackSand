@@ -24,7 +24,6 @@ Author: [Santhosh Sundar](http://gigacore.in)
 Icon by: Bakunetsu Kaito
 
 ## License
-===================
 The MIT License (MIT)
 
 MIT © 2017 Santhosh Sundar
