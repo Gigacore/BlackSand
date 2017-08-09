@@ -1,0 +1,23 @@
+{
+    "name": "blacksand",
+    "displayName": "BlackSand",
+    "description": "A theme inspired by the black-colored volcanic sand.",
+    "version": "0.0.4",
+    "publisher": "gigacore",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BlackSand",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlackSand-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png"
+}
