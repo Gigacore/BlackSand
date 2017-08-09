@@ -1,7 +1,6 @@
 # BlackSand
+![ScreenShot](/assets/banner-1.jpg)
 ## A theme inspired by the formation of black sand upon volcanic eruption."
-
-![ScreenShot](/assets/banner.jpg)
 
 * Tones of natural elements right off the bat: Fire (lava), air (smoke) and dark sand gives a natural experience.
 * Theme is neutral of blue tones, making it easy on eyes for long-haul coding sessions.
