@@ -1,11 +1,37 @@
 {
 	"name": "BlackSand",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#313131",
 		"editor.foreground": "#d8825c",
+		"activityBar.background": "#252525",
+		"activityBar.foreground": "#d8825c",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.foreground": "#ffffff",
+		"sideBar.background": "#252525",
+		"sideBar.foreground": "#bbbbbb",
+		"sideBarSectionHeader.background": "#313131",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editor.selectionBackground": "#505050",
+		"editor.lineHighlightBackground": "#414141",
+		"statusBar.background": "#252525",
+		"statusBar.foreground": "#bbbbbb",
+		"tab.activeBackground": "#313131",
+		"tab.inactiveBackground": "#252525",
+		"tab.activeForeground": "#ffffff",
+		"tab.inactiveForeground": "#bbbbbb"
+	},
+	"semanticTokenColors": {
+		"property": "#f1eeee",
+		"variable": "#EEFFFF",
+		"parameter": "#F78C6C",
+		"function": "#ffffff",
+		"class": "#FFCB6B",
+		"keyword": "#f1eeee",
+		"string": "#f9a28e",
+		"comment": "#696868",
+		"number": "#F78C6C"
 	},
 	"tokenColors": [
 		{

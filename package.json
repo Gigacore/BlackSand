@@ -2,10 +2,18 @@
     "name": "blacksand",
     "displayName": "BlackSand",
     "description": "A theme inspired by the black-colored volcanic sand.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "gigacore",
     "engines": {
-        "vscode": "^1.14.0"
+        "vscode": "^1.85.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gigacore/vscode-blacksand.git"
+    },
+    "galleryBanner": {
+        "color": "#313131",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
@@ -19,5 +27,12 @@
             }
         ]
     },
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "scripts": {
+        "test": "node ./test/runTest.js"
+    },
+    "devDependencies": {
+        "@vscode/test-electron": "^2.3.9",
+        "@vscode/vsce": "^2.22.0"
+    }
 }
